@@ -7,11 +7,11 @@ Week2: Sets
 
 Week3: Counting 
 
-Week4:
+Week4: Combinatorics
 
-Week5:
+Week5: Probability Introduction
 
-Week6:
+Week6: Conditional Probability
 
 Week7:
 
